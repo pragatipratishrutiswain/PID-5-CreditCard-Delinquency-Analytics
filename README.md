@@ -1,4 +1,4 @@
-# Below is a fictional overview of day-to-day corporate project work
+# Below is a fictional overview of a day-to-day corporate project work
 ***
 
 ## My Responsibilities:
