@@ -1,5 +1,5 @@
 # Below is a fictional overview of a day-to-day corporate project work
-***
+
 # ⏰ Project briefing
 ## 📧 An email from my senior manager, Charithra:
 
