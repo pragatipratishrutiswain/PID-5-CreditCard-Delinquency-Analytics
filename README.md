@@ -21,7 +21,7 @@
 ➡️ Offer support when I run into challenges
 
 # ⏰ Project briefing
-Email from my senior manager, Charithra:
+## Email from my senior manager, Charithra:
 
 From: Charithra, Senior Manager, Tata iQ
 
