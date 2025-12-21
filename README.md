@@ -77,10 +77,10 @@ Senior Manager, Tata iQ
 Currently, Geldium financial services provider has observed an increase in credit card delinquency rate with more customers missing payments beyond the 30-day late payment threshold. Their approach relies on historical trends and manual case handling, which limits efficiency. Your job is to analyse delinquency rates, assess repayment risk by developing an AI-powered predictive model that is capable of identifying patterns and risk factors in advance, improving risk management and customer engagement. Prepare a PowerPoint presentation that provides structured recommendations, supporting targeted interventions whenever required, including ethical guardrails and expected business impact. Also ensure fairness and transparency in AI-driven risk assessments while aligning with industry practices.
 
 ## 📌 Primary Objective
-💡 What is the primary objective of the AI-powered solution being developed for Geldium?
+### 💡 What is the primary objective of the AI-powered solution being developed for Geldium?
 
 🎯 To predict which customers are likely to miss payments and recommend interventions
 
-💡 Which team at Geldium will you be advising and working with primarily?
+### 💡 Which team at Geldium will you be advising and working with primarily?
 
 🎯 The Collections team
