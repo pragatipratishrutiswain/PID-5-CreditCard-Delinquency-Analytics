@@ -68,7 +68,7 @@ Senior Manager, Tata iQ
 
 🔎 Ensure ethical guardrails
 
-Ethical guardrails/guidelines are critical for maintaining trust, ensuring regulatory compliance, and managing risks, especially with the rapid adoption of AI. These guardrails are guided by core principles that often incorporate regional and religious values, such as Shariah compliance. 
+[Ethical guardrails/guidelines are critical for maintaining trust, ensuring regulatory compliance, and managing risks, especially with the rapid adoption of AI. These guardrails are guided by core principles that often incorporate regional and religious values, such as Shariah compliance.] 
 
 🔎 Provide structured recommendations 
 
