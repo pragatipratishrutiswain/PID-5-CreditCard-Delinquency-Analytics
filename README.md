@@ -79,8 +79,8 @@ Currently, Geldium financial services provider has observed an increase in credi
 ## 📌 Primary Objective
 ### 💡 What is the primary objective of the AI-powered solution being developed for Geldium?
 
-🎯 To predict which customers are likely to miss payments and recommend interventions
+ 🎯 To predict which customers are likely to miss payments and recommend interventions
 
 ### 💡 Which team at Geldium will you be advising and working with primarily?
 
-🎯 The Collections team
+ 🎯 The Collections team
