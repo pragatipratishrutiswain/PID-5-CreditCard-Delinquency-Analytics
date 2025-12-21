@@ -63,7 +63,7 @@ Currently, Geldium financial services provider has observed an increase in credi
 
 Ans: To predict which customers are likely to miss payments and recommend interventions
 
-### 💡 Which team at Geldium will you be advising and working with primarily?
+### 💡 Which team at Geldium will I be advising and working with primarily?
 
 Ans: The Collections team
 ***
