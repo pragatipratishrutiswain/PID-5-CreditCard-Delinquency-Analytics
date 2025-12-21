@@ -98,7 +98,7 @@ Ans: The Collections team
 ## 3️⃣ Step Three - Translating predicitve insights into actionable business recommendations
 
 
-## 4️⃣ Step Four - Best practices for presenting AI-driven insights to key stakeholders
+## 4️⃣ Step Four - Best practices for presenting AI-driven key insights to stakeholders
 
 
 ## 5️⃣ Step Five - Design an AI-powered, autonomous debt-management system to automate financial decission making
