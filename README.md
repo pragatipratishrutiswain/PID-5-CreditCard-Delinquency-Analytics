@@ -92,12 +92,12 @@ Ans: The Collections team
 ## Step 1️⃣ - EDA using GenAI
 Ensure that the foundational data is reliable and usable.
 
-Objectives:
-
+Objectives:<br>
 ✔️ Review the provided dataset and assess its structure, completeness, and key attributes.<br>
 ✔️ Identify any missing or inconsistent data points that could affect predictions.<br>
 ✔️ Use GenAI-assisted tools to generate insights, ensure data confidentiality and avoid the exposure of sensitive financial information.<br>
-✔️ Summarize the patterns, anomalies, and risk indicators that should be considered in later stages of the project in a report.<br>
+✔️ Summarize the patterns, anomalies, and risk indicators that should be considered in later stages of the project in a report.
+
 This phase is important for setting up a robust predictive modeling process. My findings will be reviewed by the wider Analytics team and Geldium’s decision-makers to shape the next steps.
 
 ## Step 2️⃣ - Leveraging GenAI for predicitive modeling (No Code)
