@@ -65,6 +65,8 @@ Senior Manager, Tata iQ
 
 🔎 Improve risk management and customer engagement
 
+🔎 Ensure ethical guardrails - ethical guardrails are critical for maintaining trust, ensuring regulatory compliance, and managing risks, especially with the rapid adoption of AI. These guardrails are guided by core principles that often incorporate regional and religious values, such as Shariah compliance. 
+
 🔎 Provide structured recommendations 
 
 🔎 Support targeted intervention strategies
@@ -72,4 +74,4 @@ Senior Manager, Tata iQ
 🔎 Prepare a PowerPoint presentation
 
 # 📌 Problem Statement
-Currently, Geldium financial services provider has observed an increase in credit card delinquency rate with more customers missing payments beyond the 30-day late payment threshold. Their approach relies on historical trends and manual case handling, which limits efficiency. Your job is to analyse delinquency rates, assess repayment risk by developing an AI-powered predictive model that is capable of identifying patterns and risk factors in advance, improving risk management and customer engagement. Prepare a PowerPoint presentation that provides structured recommendations and support targeted interventions whenever required including ethical guardrails and expected business impact. Also ensure fairness and transparency in AI-driven risk assessments while aligning with industry practices.
+Currently, Geldium financial services provider has observed an increase in credit card delinquency rate with more customers missing payments beyond the 30-day late payment threshold. Their approach relies on historical trends and manual case handling, which limits efficiency. Your job is to analyse delinquency rates, assess repayment risk by developing an AI-powered predictive model that is capable of identifying patterns and risk factors in advance, improving risk management and customer engagement. Prepare a PowerPoint presentation that provides structured recommendations, supporting targeted interventions whenever required, including ethical guardrails and expected business impact. Also ensure fairness and transparency in AI-driven risk assessments while aligning with industry practices.
