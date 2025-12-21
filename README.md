@@ -1,28 +1,5 @@
 # Below is a fictional overview of a day-to-day corporate project work
 ***
-
-## My Responsibilities:
-
-➡️ Analyzing customer data
-
-➡️ Developing predictive models to assess delinquency risk
-
-➡️ Recommending AI-driven solutions to improve financial decision-making
-
-➡️ Engage with business stakeholders, AI specialists, and risk management teams
-
-➡️ Ensure responsible and ethical AI adoption in financial services
-
-## Manager's Responsibilities:
-
-➡️ Oversee my work
-
-➡️ Provide strategiec direction
-
-➡️ Ensure alignment with business objectives
-
-➡️ Offer support when I run into challenges
-
 # ⏰ Project briefing
 ## 📧 An email from my senior manager, Charithra:
 
@@ -54,7 +31,7 @@ Looking forward to your insights.
 Best,<br>
 Charithra <br>
 Senior Manager, Tata iQ
-*** 
+***
 # My step by step approach afteer recieving the email
 ***
 ## Key words
@@ -89,3 +66,26 @@ Currently, Geldium financial services provider has observed an increase in credi
 ### 💡 Which team at Geldium will you be advising and working with primarily?
 
 The Collections team
+***
+## My Responsibilities:
+
+➡️ Analyzing customer data
+
+➡️ Developing predictive models to assess delinquency risk
+
+➡️ Recommending AI-driven solutions to improve financial decision-making
+
+➡️ Engage with business stakeholders, AI specialists, and risk management teams
+
+➡️ Ensure responsible and ethical AI adoption in financial services
+
+## Manager's Responsibilities:
+
+➡️ Oversee my work
+
+➡️ Provide strategiec direction
+
+➡️ Ensure alignment with business objectives
+
+➡️ Offer support when I run into challenges
+***
