@@ -63,7 +63,8 @@ Senior Manager, Tata iQ
 
 🔎 Improve risk management and customer engagement
 
-🔎 Ensure ethical guardrails - ethical guardrails are critical for maintaining trust, ensuring regulatory compliance, and managing risks, especially with the rapid adoption of AI. These guardrails are guided by core principles that often incorporate regional and religious values, such as Shariah compliance. 
+🔎 Ensure ethical guardrails <br>
+Ethical guardrails are critical for maintaining trust, ensuring regulatory compliance, and managing risks, especially with the rapid adoption of AI. These guardrails are guided by core principles that often incorporate regional and religious values, such as Shariah compliance. 
 
 🔎 Provide structured recommendations 
 
