@@ -56,7 +56,7 @@ Senior Manager, Tata iQ
 🔎 Prepare a PowerPoint presentation
 
 # 📌 Defining Problem Statement
-Currently, Geldium financial services provider has observed an increase in credit card delinquency rate with more customers missing payments beyond the 30-day late payment threshold. Their approach relies on historical trends and manual case handling, which limits efficiency. Your job is to analyse delinquency rates, assess repayment risk by developing an AI-powered predictive model that is capable of identifying patterns and risk factors in advance, improving risk management and customer engagement. Prepare a PowerPoint presentation that provides structured recommendations, supporting targeted interventions whenever required, including ethical guardrails and expected business impact. Also ensure fairness and transparency in AI-driven risk assessments while aligning with industry practices.
+Currently, Geldium financial services provider has observed an increase in credit card delinquency rate with more customers missing payments beyond the 30-day late payment threshold. Their approach relies on historical trends, broad segmentation model and manual case handling, which lack precision and limit efficiency. Your job is to analyse delinquency rates, assess repayment risk by developing an AI-powered predictive model that is capable of identifying patterns and risk factors in advance, improving risk management and customer engagement. Prepare a PowerPoint presentation that provides structured recommendations, supporting targeted interventions whenever required, including ethical guardrails and expected business impact. Also ensure fairness and transparency in AI-driven risk assessments while aligning with industry practices.
 
 ## 🎯 Primary Objective
 ### 💡 What is the primary objective of the AI-powered solution being developed for Geldium?
@@ -90,7 +90,15 @@ Ans: The Collections team
 𝟒. Offer support when I run into challenges
 ***
 ## Step 1️⃣ - EDA using GenAI
+Ensure that the foundational data is reliable and usable.
 
+Objectives:
+
+✔️ Review the provided dataset and assess its structure, completeness, and key attributes.<br>
+✔️ Identify any missing or inconsistent data points that could affect predictions.<br>
+✔️ Use GenAI-assisted tools to generate insights while ensuring data confidentiality and avoiding the exposure of sensitive financial information.<br>
+✔️ Summarize the patterns, anomalies, and risk indicators that should be considered in later stages of the project in a report.<br>
+This phase is important for setting up a robust predictive modeling process. My findings will be reviewed by the wider Analytics team and Geldium’s decision-makers to shape the next steps.
 
 ## Step 2️⃣ - Leveraging GenAI for predicitive modeling (No Code)
 
