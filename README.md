@@ -69,15 +69,15 @@ Ans: The Collections team
 ***
 ## My Responsibilities:
 
-➡️ Analyzing customer data
+1️⃣ Analyzing customer data
 
-➡️ Developing predictive models to assess delinquency risk
+2️⃣ Developing predictive models to assess delinquency risk
 
-➡️ Recommending AI-driven solutions to improve financial decision-making
+3️⃣ Recommending AI-driven solutions to improve financial decision-making
 
-➡️ Engage with business stakeholders, AI specialists, and risk management teams
+4️⃣ Engage with business stakeholders, AI specialists, and risk management teams
 
-➡️ Ensure responsible and ethical AI adoption in financial services
+5️⃣ Ensure responsible and ethical AI adoption in financial services
 
 ## Manager's Responsibilities:
 
@@ -89,3 +89,17 @@ Ans: The Collections team
 
 ➡️ Offer support when I run into challenges
 ***
+## Step One - EDA using GenAI
+
+
+## Step two - Leveraging GenAI for predicitive modeling (No Code)
+
+
+## Step three - Translating predicitve insights into actionable business recommendations
+
+
+## Step four - Best practives for presenting AI-driven insights to key stakeholders
+
+
+## Step five - Design an AI-powered, autonomous debt-management system to automate financial decission making
+
