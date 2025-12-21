@@ -89,17 +89,17 @@ Ans: The Collections team
 
 ➡️ Offer support when I run into challenges
 ***
-## Step One - EDA using GenAI
+## 1️⃣ Step One - EDA using GenAI
 
 
-## Step two - Leveraging GenAI for predicitive modeling (No Code)
+## 2️⃣ Step two - Leveraging GenAI for predicitive modeling (No Code)
 
 
-## Step three - Translating predicitve insights into actionable business recommendations
+## 3️⃣ Step three - Translating predicitve insights into actionable business recommendations
 
 
-## Step four - Best practives for presenting AI-driven insights to key stakeholders
+## 4️⃣ Step four - Best practives for presenting AI-driven insights to key stakeholders
 
 
-## Step five - Design an AI-powered, autonomous debt-management system to automate financial decission making
+## 5️⃣ Step five - Design an AI-powered, autonomous debt-management system to automate financial decission making
 
