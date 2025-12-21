@@ -25,7 +25,7 @@
 
 From: Charithra, Senior Manager, Tata iQ
 
-To: [pragati.opentowork@gmail.com]
+To: pragati.opentowork@gmail.com
 
 Hello,
 
