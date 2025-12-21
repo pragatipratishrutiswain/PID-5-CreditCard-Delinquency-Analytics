@@ -48,8 +48,8 @@ For now, familiarize yourself with the project’s objectives and key challenges
 
 Looking forward to your insights.
 
-Best,/
-Charithra/
+Best,<br>
+Charithra <br>
 Senior Manager, Tata iQ
 
 ## Key words
