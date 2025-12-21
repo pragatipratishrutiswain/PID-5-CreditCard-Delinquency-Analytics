@@ -10,7 +10,7 @@ Machine learning is a subset of AI that learns from historical data to predict f
 
 Example: A logistic regression model trained on customer repayment history to predict the likelihood of delinquency.
  
-What is Generative AI (GenAI)?
+💡 What is Generative AI (GenAI)?
 GenAI is a specialized form of AI that can create new content, such as text, images, or structured code, based on training data.
 Unlike ML, which is designed for structured predictions, GenAI assists with automation, summarization, and data exploration—making it a valuable tool in EDA.
 
