@@ -51,7 +51,7 @@ Looking forward to your insights.
 Best,<br>
 Charithra <br>
 Senior Manager, Tata iQ
-
+*** 
 ## Key words
 🔎 Analyse Credit card delinquency rates
 
