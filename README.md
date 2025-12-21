@@ -103,3 +103,5 @@ Ans: The Collections team
 
 ## 5️⃣ Step Five - Design an AI-powered, autonomous debt-management system to automate financial decission making
 
+
+This link helped me find this job: https://www.theforage.com/blog/basics/virtual-work-experience
