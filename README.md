@@ -81,13 +81,13 @@ Ans: The Collections team
 
 ## Manager's Responsibilities:
 
-➡️ Oversee my work
+𝟏. Oversee my work
 
-➡️ Provide strategiec direction
+𝟐. Provide strategiec direction
 
-➡️ Ensure alignment with business objectives
+𝟑. Ensure alignment with business objectives
 
-➡️ Offer support when I run into challenges
+𝟒. Offer support when I run into challenges
 ***
 ## 1️⃣ Step One - EDA using GenAI
 
