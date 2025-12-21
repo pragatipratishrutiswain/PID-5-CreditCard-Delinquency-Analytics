@@ -89,19 +89,19 @@ Ans: The Collections team
 
 𝟒. Offer support when I run into challenges
 ***
-## 1️⃣ Step One - EDA using GenAI
+## Step 1️⃣ - EDA using GenAI
 
 
-## 2️⃣ Step Two - Leveraging GenAI for predicitive modeling (No Code)
+## Step 2️⃣ - Leveraging GenAI for predicitive modeling (No Code)
 
 
-## 3️⃣ Step Three - Translating predicitve insights into actionable business recommendations
+## Step 3️⃣ - Translating predicitve insights into actionable business recommendations
 
 
-## 4️⃣ Step Four - Best practices for presenting AI-driven key insights to stakeholders
+## Step 4️⃣ - Best practices for presenting AI-driven key insights to stakeholders
 
 
-## 5️⃣ Step Five - Design an AI-powered, autonomous debt-management system to automate financial decission making
+## Step 5️⃣ - Design an AI-powered, autonomous debt-management system to automate financial decission making
 
 
 This link helped me find this job: https://www.theforage.com/blog/basics/virtual-work-experience
