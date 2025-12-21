@@ -32,7 +32,7 @@ Best,<br>
 Charithra <br>
 Senior Manager, Tata iQ
 ***
-# My step by step approach afteer recieving the email
+# My step by step approach after recieving the email
 
 ## Collecting Key words
 🔎 Analyse Credit card delinquency rates
