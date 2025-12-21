@@ -1,3 +1,6 @@
+# Below is a fictional overview of day-to-day corporate project work
+***
+
 ## My Responsibilities:
 
 ➡️ Analyzing customer data
