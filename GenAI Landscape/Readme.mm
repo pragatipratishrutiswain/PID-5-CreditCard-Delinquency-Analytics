@@ -21,4 +21,4 @@ I won’t be building an ML model from scratch, but I will:
 ⚙️ Use GenAI tools to summarize insights and guide predictive modeling.
 🌍 Understand how AI-driven predictions influence real-world decisions.
 
-Resource: <https://medium.com/@lyfedge799/the-complete-guide-to-navigating-the-gen-ai-landscape-from-strategy-to-implementation-dd189ed65d5d>
+Resource: https://medium.com/@lyfedge799/the-complete-guide-to-navigating-the-gen-ai-landscape-from-strategy-to-implementation-dd189ed65d5d
