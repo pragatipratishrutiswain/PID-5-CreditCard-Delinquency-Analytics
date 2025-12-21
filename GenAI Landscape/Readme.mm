@@ -4,7 +4,6 @@ The AI landscape is where Machine Learning (ML) and Generative AI (GenAI) fit in
 AI refers to any system that can perform tasks requiring human intelligence, such as recognizing patterns, making decisions, or processing language. 
 It is a broad category that includes both traditional rule-based systems and Machine Learning (ML) models that improve based on data.
  
-
 💡 What is Machine Learning (ML)?
 Machine learning is a subset of AI that learns from historical data to predict future outcomes. In financial services, ML models are used for credit scoring, fraud detection, and risk assessment.
 
