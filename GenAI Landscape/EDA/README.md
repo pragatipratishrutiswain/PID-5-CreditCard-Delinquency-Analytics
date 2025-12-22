@@ -49,8 +49,9 @@ Synthetic data generation may be an option when real data is unavailable, but it
 ### 3️⃣ Understanding relationships between variables
 EDA also involves examining how different features interact. For example:
 
-Do customers with high credit utilization rates have a higher risk of delinquency?<br>
-Is there a correlation between income levels and late payments?<br>
+❗Do customers with high credit utilization rates have a higher risk of delinquency?
+
+❗Is there a correlation between income levels and late payments?
 
 #### Using GenAI:
 AI models can automate correlation analysis, helping identify key risk indicators.<br>
