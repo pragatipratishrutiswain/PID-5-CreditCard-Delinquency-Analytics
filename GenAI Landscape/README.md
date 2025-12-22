@@ -29,5 +29,3 @@ Example: Using GenAI to generate a summary of credit risk trends instead of manu
 📊 Explore patterns in financial data that inform risk assessment.<br>
 ⚙️ Use GenAI tools to summarize insights and guide predictive modeling.<br>
 🌍 Understand how AI-driven predictions influence real-world decisions.
-
-Resource: <https://medium.com/@lyfedge799/the-complete-guide-to-navigating-the-gen-ai-landscape-from-strategy-to-implementation-dd189ed65d5d>
