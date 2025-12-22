@@ -12,7 +12,7 @@ When handling missing data, I would first analyze the reason for missingness—w
 
 While GenAI models can assist in detecting patterns and suggesting imputation strategies, statistical techniques (e.g., mean, median, or regression-based imputation) remain the industry standard due to their transparency and reproducibility. Blindly applying GenAI-generated imputation without understanding data context can introduce significant bias.
 
-##💡 What are the common causes of missing data?
+## 💡 What are the common causes of missing data?
 
 Missing data can occur due to:
 
