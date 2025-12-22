@@ -40,9 +40,11 @@ Here are some common techniques for handling missing data:
 
 #### Using GenAI (for exploration, not direct imputation):
 
-AI-powered tools can automate missing value detection and summarize data gaps, helping analysts assess which variables require attention.<br>
-GenAI can suggest potential imputation strategies based on statistical best practices, but final decisions should be validated with domain expertise.<br>
-Synthetic data generation may be an option when real data is unavailable, but it should be validated against real-world distributions to prevent bias.<br>
+✨ AI-powered tools can automate missing value detection and summarize data gaps, helping analysts assess which variables require attention.<br>
+
+✨ GenAI can suggest potential imputation strategies based on statistical best practices, but final decisions should be validated with domain expertise.<br>
+
+✨ Synthetic data generation may be an option when real data is unavailable, but it should be validated against real-world distributions to prevent bias.<br>
 
 💡 Example prompt: "Identify missing values in this dataset and recommend the best imputation strategy based on industry best practices."
 
