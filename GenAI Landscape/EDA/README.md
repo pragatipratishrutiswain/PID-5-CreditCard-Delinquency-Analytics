@@ -6,10 +6,10 @@ In the context of financial services, EDA plays a crucial role in risk assessmen
 
 ### Here is why EDA matters in predicting delinquency:
 
-🚀 Ensures data integrity – Identifies missing values, duplicates, and inconsistencies before analysis.
-🚀 Highlights patterns and anomalies – Helps detect trends in customer behavior, such as spending patterns before delinquency.
-🚀 Prevents biased models – Reduces the risk of unfair treatment by ensuring diverse data representation.
-🚀 Supports better decision-making – Provides Geldium’s Collections and Risk teams with clear insights for proactive customer engagement.
+🚀 Ensures data integrity – Identifies missing values, duplicates, and inconsistencies before analysis.<br>
+🚀 Highlights patterns and anomalies – Helps detect trends in customer behavior, such as spending patterns before delinquency.<br>
+🚀 Prevents biased models – Reduces the risk of unfair treatment by ensuring diverse data representation.<br>
+🚀 Supports better decision-making – Provides Geldium’s Collections and Risk teams with clear insights for proactive customer engagement.<br>
 🚀 Without a thorough EDA process, predictive models can be built on flawed data, leading to inaccurate insights, poor risk management, and potentially unfair decision-making.
 
 
