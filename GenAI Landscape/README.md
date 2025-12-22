@@ -6,7 +6,7 @@ It is a broad category that includes both traditional rule-based systems and Mac
  
 ## 💡 What is Machine Learning (ML)?
 Machine learning is a subset of AI that learns from historical data to predict future outcomes.<br>
-In financial services, ML models are used for
+In financial services, ML models are used for<br>
 ✔️ credit scoring<br>
 ✔️ fraud detection<br>
 ✔️ risk assessment
