@@ -1,5 +1,5 @@
 # Understanding customer risk factors for delinquency
-My next step is identifying key customer risk factors that influence credit card delinquency.<br>
+My next step is to identify the key customer risk factors that influence credit card delinquency.<br>
 Understanding these factors will help refine predictive models and improve intervention strategies.<br>
 
 ## 💡 Why risk factors matter in financial decision-making
