@@ -17,7 +17,7 @@ Example: A logistic regression model trained on customer repayment history to pr
 GenAI is a specialized form of AI that can <br>
 ✔️ create new content, such as text, images, or structured code, based on training data.
  
-Unlike ML, which is designed for structured predictions, GenAI assists with
+Unlike ML, which is designed for structured predictions, GenAI assists with<br>
 ✔️ automation<br>
 ✔️ summarization<br>
 ✔️ data exploration—making it a valuable tool in EDA
