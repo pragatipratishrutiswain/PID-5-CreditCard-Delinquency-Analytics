@@ -110,6 +110,3 @@ This phase is important for setting up a robust predictive modeling process. My 
 
 
 ## Step 5️⃣ - Design an AI-powered, autonomous debt-management system to automate financial decission making
-
-
-This link helped me find this job: https://www.theforage.com/blog/basics/virtual-work-experience
