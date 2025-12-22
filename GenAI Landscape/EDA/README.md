@@ -16,11 +16,11 @@ In the context of financial services, EDA plays a crucial role in risk assessmen
 EDA consists of four main steps, which can be enhanced with GenAI tools:
 
 ### 1️⃣ Understanding the dataset
-Before jumping into analysis, take time to familiarize yourself with the dataset. Ask yourself:
+Before jumping into analysis, I need to ask myself:
 
-What are the key variables (e.g., payment history, income levels, credit utilization)?<br>
-Are there categorical or numerical data points?<br>
-Are there missing or inconsistent values?<br>
+𝟏. What are the key variables (e.g., payment history, income levels, credit utilization)?<br>
+𝟐. Are there categorical or numerical data points?<br>
+𝟑. Are there missing or inconsistent values?<br>
 
 #### Using GenAI: 
 I can use AI-powered summarization tools to quickly scan a dataset and generate an overview. Open AI Tools can help interpret column headers, suggest relevant features, and summarize key statistics.
