@@ -32,7 +32,7 @@ Incomplete data can lead to poor predictions. Missing values in credit risk data
 
 Here are some common techniques for handling missing data:
 
-Statistical imputation (industry standard): Replace missing values using well-established techniques such as mean, median, or regression-based imputation. (We've provided a resource with further information on imputation below.)<br>
+Statistical imputation (industry standard): Replace missing values using well-established techniques such as mean, median, or regression-based imputation.<br>
 Understanding missingness patterns: Before filling in missing values, determine whether the data is missing completely at random (MCAR), missing at random (MAR), or missing not at random (MNAR) to avoid introducing bias. <br>
 Removing irrelevant data: If a feature has excessive missing values and cannot be meaningfully imputed without introducing bias, it may be best to exclude it—but only after assessing its impact on model accuracy and fairness.
 
