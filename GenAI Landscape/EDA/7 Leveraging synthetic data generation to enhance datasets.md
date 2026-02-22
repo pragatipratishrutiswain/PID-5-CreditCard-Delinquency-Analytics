@@ -9,7 +9,7 @@ Using historical trends, distributions, or averages to estimate missing values.
 ### AI—driven techniques
 Using machine learning models or Gen—AI tools to create synthetic records based on existing data patterns.
 
-While synthetic data generation can be useful for filling in gaps and expanding datasets, it should be applied with caution in financial risk modeling. Traditional statistical simulation techniques such as **Monte Carlo simulations (or Multiple Probability Simulation), bootstrapping, and probabilistic modeling** are often preferred due to their explainability, reproducibility, and ability to align with industry regulations.
+While synthetic data generation can be useful for filling in gaps and expanding datasets, it should be applied with caution in financial risk modeling. Traditional statistical simulation techniques such as **Monte Carlo simulations (or Multiple Probability Simulation), Bootstrapping, and Probabilistic Modeling** are often preferred due to their explainability, reproducibility, and ability to align with industry regulations.
 
 https://www.ibm.com/think/topics/monte-carlo-simulation
 
