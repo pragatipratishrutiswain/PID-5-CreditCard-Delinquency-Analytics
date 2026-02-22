@@ -35,9 +35,9 @@ As we analyze Geldium’s dataset, we may find missing values that could impact 
 
 As we explore Geldium’s dataset, consider whether synthetic data could be useful for filling gaps or testing delinquency risk models. wer approach should balance realism, fairness, and privacy to ensure high-quality AI-driven insights.
 
-Ethical considerations:
+## Ethical considerations:
 While synthetic data can enhance dataset completeness, it must be used carefully to avoid:
 
-Introducing bias – Ensure synthetic records reflect realistic patterns.
-Misrepresenting risk factors – Avoid generating overly optimistic or pessimistic data.
-Compromising compliance – Validate that synthetic data aligns with industry regulations.
+- Introducing bias – Ensure synthetic records reflect realistic patterns.
+- Misrepresenting risk factors – Avoid generating overly optimistic or pessimistic data.
+- Compromising compliance – Validate that synthetic data aligns with industry regulations.
