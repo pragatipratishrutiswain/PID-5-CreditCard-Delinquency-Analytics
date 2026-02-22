@@ -2,15 +2,15 @@
 After understanding how EDA helps assess dataset completeness, the next step is addressing missing values to ensure reliable insights. In financial risk analytics, incomplete or inconsistent data can skew predictions and lead to incorrect risk assessments. When handling missing data, it is critical to first analyze the reason for missingness—whether it is random, systematic, or indicative of underlying biases. While GenAI models can assist in detecting patterns and suggesting imputation strategies, statistical techniques (e.g., mean, median, or regression-based imputation) remain the industry standard due to their transparency and reproducibility. Blindly applying GenAI-generated imputation without understanding data context can introduce significant bias.
 
 ## What are the common causes of missing data?
-Missing data can occur due to:
+1️⃣ Missing data can occur due to:
 
-Random errors (e.g., a system glitch fails to record a payment).
+2️⃣ Random errors (e.g., a system glitch fails to record a payment).
 
-Skewed data collection (e.g., high-income customers are less likely to disclose salary details).
+3️⃣ Skewed data collection (e.g., high-income customers are less likely to disclose salary details).
 
-Customer behavior (e.g., financially distressed individuals may avoid reporting debt).
+4️⃣ Customer behavior (e.g., financially distressed individuals may avoid reporting debt).
 
-Understanding the cause helps determine the best approach for handling missing values.
+5️⃣ Understanding the cause helps determine the best approach for handling missing values.
 
 ## How to handle missing values:
 1️⃣ Deleting missing data – If only a small percentage of data is missing, removing incomplete entries may be the best approach. However, this can reduce the sample size.
