@@ -26,4 +26,6 @@ Beyond missing values,
 check for<br>
 duplicates,<br>
 inconsistent formatting, and<br>
-logical errors (e.g., high credit scores with multiple missed payments). By maintaining data integrity, you ensure that predictive models generate fair and accurate delinquency assessments.
+logical errors (e.g., high credit scores with multiple missed payments).<br> 
+
+By maintaining data integrity, you ensure that predictive models generate fair and accurate delinquency assessments.
