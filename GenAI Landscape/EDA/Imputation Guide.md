@@ -1,7 +1,7 @@
 # UNDERSTANDING IMPUTATION: 
 
 
-## 1. WHAT IS IMPUTATION?
+## WHAT IS IMPUTATION?
 Imputation is the process of replacing missing values/data in a dataset with reasonable or estimated values. Instead of deleting rows with missing values, imputation helps retain valuable information by replacing the missing entries with typical or representative data.
 WHAT ARE MEAN, MEDIAN, AND MODE?
 
