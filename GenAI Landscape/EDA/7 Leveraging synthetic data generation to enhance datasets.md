@@ -33,7 +33,7 @@ As we analyze Geldium’s dataset, we may find missing values that could impact 
 ## 💡 Example GenAI prompt: 
 _“Generate synthetic payment history data for customers with missing records while ensuring that distributions align with historical patterns observed in the dataset (e.g., standard deviations, typical payment behaviors).”_
 
-As we explore Geldium’s dataset, consider whether synthetic data could be useful for filling gaps or testing delinquency risk models. wer approach should balance realism, fairness, and privacy to ensure high-quality AI-driven insights.
+As we explore Geldium’s dataset, consider whether synthetic data could be useful for filling gaps or testing delinquency risk models. MY approach should balance realism, fairness, and privacy to ensure high-quality AI-driven insights.
 
 ## Ethical considerations:
 While synthetic data can enhance dataset completeness, it must be used carefully to avoid:
