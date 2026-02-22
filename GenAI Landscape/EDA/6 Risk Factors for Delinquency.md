@@ -11,4 +11,4 @@ Lenders assess various financial and behavioral indicators to determine whether 
 4️⃣ Recent credit activity – A sudden increase in new credit accounts or loan applications may signal financial instability.<br>
 5️⃣ Employment and income stability – Frequent job changes or inconsistent income can contribute to a higher risk of missed payments.<br>
 6️⃣ Demographic trends – While AI models must avoid bias, certain patterns (e.g., younger customers with limited credit history) may require additional analysis.<br>
-7️⃣ AI-driven models analyze multiple risk factors simultaneously, detecting patterns that may not be immediately obvious. However, ensuring that these models remain fair and explainable is crucial to avoiding biases in decision-making.
+7️⃣ AI-driven models analyze multiple risk factors simultaneously, detecting patterns that may not be immediately obvious. However, ensuring that these models remain **fair and explainable** is crucial to avoiding biases in decision-making.
