@@ -28,4 +28,4 @@ duplicates,<br>
 inconsistent formatting, and<br>
 logical errors (e.g., high credit scores with multiple missed payments).<br> 
 
-By maintaining data integrity, you ensure that predictive models generate fair and accurate delinquency assessments.
+By maintaining data integrity, we ensure that predictive models generate fair and accurate delinquency assessments.
