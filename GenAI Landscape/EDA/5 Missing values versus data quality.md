@@ -16,9 +16,8 @@ After understanding how EDA helps assess dataset completeness, the next step is 
 2️⃣ Imputation (replacing missing values) – Mean, median, or mode imputation fills gaps with typical values.
 Forward or backward filling uses existing data trends to estimate missing entries.
 
-3️⃣ AI-Assisted Imputation –
+3️⃣ AI-Assisted Imputation – GenAI models can help detect patterns and suggest imputation strategies and statistical techniques (e.g., mean, median, or regression-based imputation).
 
-GenAI models can help detect patterns and suggest imputation strategies and statistical techniques (e.g., mean, median, or regression-based imputation).
 AI tools can also suggest synthetic data where needed, provided data privacy is maintained.
 
 Beyond missing values, check for duplicates, inconsistent formatting, and logical errors (e.g., high credit scores with multiple missed payments). By maintaining data integrity, you ensure that predictive models generate fair and accurate delinquency assessments.
