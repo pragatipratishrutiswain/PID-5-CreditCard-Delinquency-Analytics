@@ -16,8 +16,10 @@ Understanding the cause helps determine the best approach for handling missing v
 2️⃣ Imputation (replacing missing values) – Mean, median, or mode imputation fills gaps with typical values.
 Forward or backward filling uses existing data trends to estimate missing entries.
 
-3️⃣ AI-Assisted Imputation – GenAI models can help detect patterns and suggest imputation strategies and statistical techniques (e.g., mean, median, or regression-based imputation).
+3️⃣ AI-Assisted Imputation – 
 
-AI tools can also suggest synthetic data where needed, provided data privacy is maintained.
+» GenAI models can help detect patterns and suggest imputation strategies and statistical techniques (e.g., mean, median, or regression-based imputation).
+
+» AI tools can also suggest synthetic data where needed, provided data privacy is maintained.
 
 Beyond missing values, check for duplicates, inconsistent formatting, and logical errors (e.g., high credit scores with multiple missed payments). By maintaining data integrity, you ensure that predictive models generate fair and accurate delinquency assessments.
