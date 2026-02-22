@@ -3,7 +3,7 @@ In financial services, incomplete or inconsistent data can make it difficult to 
 
 **Synthetic data** is artificially generated data that mimics real-world data patterns. Instead of using actual customer records, synthetic data is created using **statistical models** or **AI-driven techniques** to supplement missing values or expand datasets for testing. This ensures that no real customer information is exposed while still preserving the integrity of the analysis.
 
-### statistical models
+### Statistical Models
 Using historical trends, distributions, or averages to estimate missing values.
 
 ### AI—driven techniques
