@@ -31,7 +31,7 @@ When to use synthetic data in financial services:
 As we analyze Geldium’s dataset, we may find missing values that could impact delinquency predictions. If removing or imputing data isn’t viable, synthetic data generation can supplement datasets; however, it must be strictly validated to ensure it accurately reflects real-world trends and does not introduce bias. GenAI-assisted synthetic data generation should be used with caution, as improper constraints can lead to unrealistic outputs that misrepresent risk factors.
 
 ## 💡 Example GenAI prompt: 
-“Generate synthetic payment history data for customers with missing records while ensuring that distributions align with historical patterns observed in the dataset (e.g., standard deviations, typical payment behaviors).”
+_“Generate synthetic payment history data for customers with missing records while ensuring that distributions align with historical patterns observed in the dataset (e.g., standard deviations, typical payment behaviors).”_
 
 As we explore Geldium’s dataset, consider whether synthetic data could be useful for filling gaps or testing delinquency risk models. wer approach should balance realism, fairness, and privacy to ensure high-quality AI-driven insights.
 
