@@ -22,4 +22,7 @@ Forward or backward filling uses existing data trends to estimate missing entrie
 
 » AI tools can also suggest synthetic data where needed, provided data privacy is maintained.
 
-Beyond missing values, check for duplicates, inconsistent formatting, and logical errors (e.g., high credit scores with multiple missed payments). By maintaining data integrity, you ensure that predictive models generate fair and accurate delinquency assessments.
+Beyond missing values, check for 
+  duplicates, <br>
+  inconsistent formatting, and <br>
+  logical errors (e.g., high credit scores with multiple missed payments). By maintaining data integrity, you ensure that predictive models generate fair and accurate delinquency assessments.
