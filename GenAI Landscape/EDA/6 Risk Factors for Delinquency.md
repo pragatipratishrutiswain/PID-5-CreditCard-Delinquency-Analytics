@@ -1,5 +1,5 @@
 # Understanding customer risk factors for delinquency
-Now that you’ve learned how to ensure data quality and handle missing values, the next step is identifying key customer risk factors that influence credit card delinquency. Understanding these factors will help refine predictive models and improve intervention strategies.
+After learning how to ensure data quality and handle missing values, the next step is identifying key customer risk factors that influence credit card delinquency. Understanding these factors will help refine predictive models and improve intervention strategies.
 
 ## Why risk factors matter in financial decision-making:
 Lenders assess various financial and behavioral indicators to determine whether a customer is likely to miss payments. By analyzing these factors, Geldium’s Collections team can proactively identify customers who may need early intervention, reducing financial losses and improving repayment outcomes.
