@@ -6,8 +6,8 @@ In financial services, incomplete or inconsistent data can make it difficult to 
 While synthetic data generation can be useful for filling in gaps and expanding datasets, it should be applied with caution in financial risk modeling. Traditional statistical simulation techniques such as Monte Carlo simulations, bootstrapping, and probabilistic modeling are often preferred due to their explainability, reproducibility, and ability to align with industry regulations.
 
 GenAI-generated synthetic data should be:
-✔ Validated against real-world distributions to ensure accuracy.
-✔ Cross-checked with statistical models to prevent introducing artificial patterns or biases.
+✔ Validated against real-world distributions to ensure accuracy.<br>
+✔ Cross-checked with statistical models to prevent introducing artificial patterns or biases.<br>
 ✔ Used as a supplementary tool, not a primary data source, especially in regulatory environments.
 
 When to use synthetic data in financial services:
